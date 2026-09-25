@@ -58,3 +58,8 @@ L'API est accessible sur `http://localhost:3000`.
 - `GET /api/artisans/top` — artisans du mois
 - `GET /api/artisans/:id` — détail d'un artisan
 - `POST /api/artisans/:id/contact` — envoi d'un message à un artisan
+
+## Déploiement
+
+- **API** hébergée sur [Render](https://render.com) : https://api-trouve-ton-artisan-z323.onrender.com
+- **Base de données** MySQL hébergée sur [Railway](https://railway.app)
